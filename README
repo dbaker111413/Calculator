@@ -1,0 +1,40 @@
+Session 1 start 4:30pm 9/25/17:
+   04:30pm 9/25/17 - Set up repository for project and created project in visual studio
+   04:35pm 9/25/17 - Began researching Windows Forms applications on msdn 
+   04:48pm 9/25/17 - Starting experimentally modifying a Windows Form while following the msdn tutorial
+   05:00pm 9/25/17 - Began working on the layout for a calculator
+   05:29pm 9/25/17 - Finished basic layout rough draft
+Session 1 end 5:30pm 9/25/17
+
+Session 2 start 7:08pm 9/25/17:
+   07:10pm 9/25/17 - Looked up visual basic tutorials on msdn
+   07:30pm 9/25/17 - Started work on a calculator class
+   07:59pm 9/25/17 - calculator class almost finished
+   08:15pm 9/25/17 - calculator class ready for testing, start connecting UI elements with non-UI code
+   09:23pm 9/25/17 - Input and calculation functionality almost complete. A few bugs still need to be worked out.
+Session 2 end 9:23pm 9/25/17
+
+Session 3 start 10:07pm 9/25/17:
+   10:08pm 9/25/17 - Resumed debugging I/O errors.
+   10:20pm 9/25/17 - Fixed the bug, introduced another I/O bug
+   10:41pm 9/25/17 - Updated the display, thinking of ways to eliminate the I/O bug
+   10:48pm 9/25/17 - Realized that my way of approaching this problem is probably severely flawed. Going to sleep on it and try again tomorrow.
+Session 3 end 10:48pm 9/25/17
+
+Session 4 start 8:52am 9/26/17:
+   08:52am 9/26/17 - Started restructuring how input is handled
+   09:26am 9/26/17 - Input is closer to matching standard calculator controls. Still a few fixes to make.
+   10:05am 9/26/17 - Intput controls are complete except for consecutive operations (without pressing '=' button). Calculator is functional.
+Session 4 end 10:06am 9/26/17
+
+Session 5 start 12:00pm 9/26/17:
+   12:00pm 9/26/17 - Began fixing the issue with consecutive operations.
+   12:18pm 9/26/17 - Completed calculator functionality.
+   12:19pm 9/26/17 - Started researching file I/O with VB.NET on msdn
+   12:29pm 9/26/17 - Researched resizing arrays with VB.NET on msdn
+   12:38pm 9/26/17 - Researched For Each loops with VB.NET on msdn
+   12:40pm 9/26/17 - Researched static functions with VB.NET on msdn
+   12:50pm 9/26/17 - implemented a save feature, started testing
+   12:54pm 9/26/17 - Updated output display to show history and enabled user to save
+   12:59pm 9/26/17 - History saves successfully in log.txt
+Session 5 end 1:00pm 9/26/17

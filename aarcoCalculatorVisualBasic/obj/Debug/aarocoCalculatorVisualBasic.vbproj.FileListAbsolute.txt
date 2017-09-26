@@ -1,0 +1,12 @@
+c:\users\daniel\source\repos\aarcoCalculatorVisualBasic\aarcoCalculatorVisualBasic\bin\Debug\aarcoCalculatorVisualBasic.exe.config
+c:\users\daniel\source\repos\aarcoCalculatorVisualBasic\aarcoCalculatorVisualBasic\bin\Debug\aarcoCalculatorVisualBasic.exe
+c:\users\daniel\source\repos\aarcoCalculatorVisualBasic\aarcoCalculatorVisualBasic\bin\Debug\aarcoCalculatorVisualBasic.pdb
+c:\users\daniel\source\repos\aarcoCalculatorVisualBasic\aarcoCalculatorVisualBasic\bin\Debug\aarcoCalculatorVisualBasic.xml
+c:\users\daniel\source\repos\aarcoCalculatorVisualBasic\aarcoCalculatorVisualBasic\obj\Debug\aarocoCalculatorVisualBasic.vbprojResolveAssemblyReference.cache
+c:\users\daniel\source\repos\aarcoCalculatorVisualBasic\aarcoCalculatorVisualBasic\obj\Debug\aarcoCalculatorVisualBasic.Form1.resources
+c:\users\daniel\source\repos\aarcoCalculatorVisualBasic\aarcoCalculatorVisualBasic\obj\Debug\aarcoCalculatorVisualBasic.Resources.resources
+c:\users\daniel\source\repos\aarcoCalculatorVisualBasic\aarcoCalculatorVisualBasic\obj\Debug\aarocoCalculatorVisualBasic.vbproj.GenerateResource.Cache
+c:\users\daniel\source\repos\aarcoCalculatorVisualBasic\aarcoCalculatorVisualBasic\obj\Debug\aarocoCalculatorVisualBasic.vbproj.CoreCompileInputs.cache
+c:\users\daniel\source\repos\aarcoCalculatorVisualBasic\aarcoCalculatorVisualBasic\obj\Debug\aarcoCalculatorVisualBasic.exe
+c:\users\daniel\source\repos\aarcoCalculatorVisualBasic\aarcoCalculatorVisualBasic\obj\Debug\aarcoCalculatorVisualBasic.xml
+c:\users\daniel\source\repos\aarcoCalculatorVisualBasic\aarcoCalculatorVisualBasic\obj\Debug\aarcoCalculatorVisualBasic.pdb
